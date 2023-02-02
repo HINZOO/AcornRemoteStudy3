@@ -8,10 +8,14 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+
+
 
 <div>
     <iframe src="ksj.html"></iframe>
+</div>
+<div>
+    <iframe src="최경민.html"></iframe>
 </div>
 </body>
 </html>

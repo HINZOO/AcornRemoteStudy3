@@ -10,8 +10,6 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 
-
-
     <div>
         <iframe src="김재연.html"></iframe>
     </div>
@@ -33,7 +31,7 @@
     </div>
 
     <div>
-    <iframe src="ksj.html"></iframe>
+        <iframe src="ksj.html"></iframe>
     </div>
 
 </body>

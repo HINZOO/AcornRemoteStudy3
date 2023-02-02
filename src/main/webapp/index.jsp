@@ -12,6 +12,13 @@
 
 
 
+<div>
 <iframe src="김봉현.html">김봉현</iframe>
+</div>
+
+    <div>
+        <iframe src="최경민.html"></iframe>
+    </div>
+
 </body>
 </html>

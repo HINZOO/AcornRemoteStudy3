@@ -10,8 +10,15 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 
+
     <div>
         <iframe src="김재연.html"></iframe>
     </div>
+
+    <div>
+        <iframe src="김봉현.html">김봉현</iframe>
+    </div>
+
+>>>>>>> origin/kbh
 </body>
 </html>

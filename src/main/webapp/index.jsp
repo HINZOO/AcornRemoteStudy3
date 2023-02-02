@@ -10,7 +10,6 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 
-<<<<<<< HEAD
 
     <div>
         <iframe src="김재연.html"></iframe>
@@ -22,6 +21,10 @@
 
     <div>
         <iframe src ="이현주.html"></iframe>
+    </div>
+
+    <div>
+        <iframe src="ksj.html"></iframe>
     </div>
 
 </body>

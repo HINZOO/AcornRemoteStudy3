@@ -9,7 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
-<<<<<<< HEAD
+
 <div>
     <iframe src="신희선.html"></iframe>
 </div>
@@ -17,5 +17,9 @@
     <div>
         <iframe src="최경민.html"></iframe>
     </div>
+<div>
+    <iframe src ="이현주.html"></iframe>
+</div>
+
 </body>
 </html>

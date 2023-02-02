@@ -14,24 +14,27 @@
     </div>
 
     <div>
-        <iframe src="김재연.html"></iframe>
+        <iframe src="신희선.html"> </iframe>
     </div>
 
-    <div>
-        <iframe src="김봉현.html"></iframe>
-    </div>
 
     <div>
         <iframe src ="이현주.html"></iframe>
     </div>
 
     <div>
-        <iframe src="ksj.html"></iframe>
+        <iframe src="김봉현.html"></iframe>
+    </div>
+
+
+    <div>
+        <iframe src="김재연.html"></iframe>
     </div>
 
     <div>
-        <iframe src="신희선.html"></iframe>
+        <iframe src="ksj.html"></iframe>
     </div>
+
 
 
 
